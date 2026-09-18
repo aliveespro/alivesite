@@ -1,4 +1,4 @@
-# Instituto Alíve — Plataforma Institucional & Comunitária
+# Alíve — Plataforma Institucional & Comunitária
 
 > **"Cultive saber, transforme viver."**  
 > Plataforma digital oficial do Instituto Alíve, promovendo impacto social transformador através dos três pilares fundamentais: **Saúde**, **Cultura** e **Educação**.
